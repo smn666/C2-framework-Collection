@@ -1,0 +1,110 @@
+MIME-Version: 1.0
+Content-Location: file:///C:/491A9C92/CovenantC2.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:dt=3D"uuid:C2F41010-65B3-11d1-A29F-00AA00C14882"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DOneNote.File>
+<meta name=3DGenerator content=3D"Microsoft OneNote 15">
+<link id=3DMain-File rel=3DMain-File href=3DCovenantC2.htm>
+<link rel=3DFile-List href=3D"CovenantC2_files/filelist.xml">
+</head>
+
+<body lang=3Den-US style=3D'font-family:Calibri;font-size:11.0pt'>
+
+<div style=3D'direction:ltr;border-width:100%'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:5.3993in'>
+
+<div style=3D'direction:ltr;margin-top:0in;margin-left:0in;width:2.0236in'>
+
+<p style=3D'margin:0in;font-family:"Calibri Light";font-size:20.0pt'><span
+style=3D'font-weight:bold'>Covenant C2</span></p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.0388in;margin-left:0in;width:2.3145=
+in'>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:gray'
+lang=3Den-AE>Friday, 18 August 2023</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:10.0pt;color:gray'
+lang=3Den-AE>11:34 AM</p>
+
+</div>
+
+<div style=3D'direction:ltr;margin-top:.4305in;margin-left:0in;width:5.3993=
+in'>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'><span
+style=3D'font-weight:bold'>Installation &amp; startup</span></p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+
+<ul type=3Ddisc style=3D'margin-left:.375in;direction:ltr;unicode-bidi:embe=
+d;
+ margin-top:0in;margin-bottom:0in'>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+     style=3D'font-weight:bold;font-family:Calibri;font-size:11.0pt'>first
+     install </span><a
+     href=3D"https://dotnet.microsoft.com/en-us/download/dotnet/3.1"><span
+     style=3D'font-weight:bold;font-family:Calibri;font-size:11.0pt'>https:=
+//dotnet.microsoft.com/en-us/download/dotnet/3.1</span></a></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+     style=3D'font-weight:bold;font-family:Calibri;font-size:11.0pt'>instal=
+l Git
+     Desktop version (for windows)</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+     style=3D'font-weight:bold;font-family:Calibri;font-size:11.0pt'>git cl=
+one
+     --recurse-submodules </span><a href=3D"https://github.com/cobbr/Covena=
+nt"><span
+     style=3D'font-weight:bold;font-family:Calibri;font-size:11.0pt'>https:=
+//github.com/cobbr/Covenant</span></a></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+     style=3D'font-weight:bold;font-family:Calibri;font-size:11.0pt'>cd
+     Covennat/Covennat</span></li>
+ <li style=3D'margin-top:0;margin-bottom:0;vertical-align:middle'><span
+     style=3D'font-weight:bold;font-family:Calibri;font-size:11.0pt'>dotnet=
+ run</span></li>
+</ul>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'><span
+style=3D'font-weight:bold'>a little bit long..</span>.</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'>&nbsp;</p>
+
+<p style=3D'margin:0in;font-family:Calibri;font-size:11.0pt'><span
+style=3D'font-weight:bold'>Covenant has started! Navigate to </span><a
+href=3D"https://127.0.0.1:7443"><span style=3D'font-weight:bold'>https://12=
+7.0.0.1:7443</span></a><span
+style=3D'font-weight:bold'> in a browser</span></p>
+
+</div>
+
+</div>
+
+</div>
+
+<div>
+
+<p style=3D'margin:0in'>&nbsp;</p>
+
+<p style=3D'text-align:left;margin:0in;font-family:Arial;font-size:9pt;
+color:#969696;direction:ltr'>Created with Microsoft OneNote 2016.</p>
+
+</div>
+
+</body>
+
+</html>
